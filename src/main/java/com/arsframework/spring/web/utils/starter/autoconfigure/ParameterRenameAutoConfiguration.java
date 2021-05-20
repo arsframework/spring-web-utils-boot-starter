@@ -12,7 +12,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * The config of parameter rename with GET method
  *
  * @author Woody
- * @date 2020/11/10
  */
 @Configuration
 public class ParameterRenameAutoConfiguration implements WebMvcConfigurer {
