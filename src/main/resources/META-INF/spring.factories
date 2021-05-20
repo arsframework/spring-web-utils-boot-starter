@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.arsframework.spring.web.utils.starter.autoconfigure.ParameterRenameAutoConfiguration
